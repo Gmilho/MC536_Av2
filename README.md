@@ -35,5 +35,5 @@ No sistema operacional Ubuntu e em seus similares, as instruções para obtenç�
 8. Por fim, basta executar os blocos de código sequencialmente. Comece pelo começo, vá até o final, e então pare. Os resultados são exibidos na própria página.
 
 ## Créditos e Agradecimentos
-_Datasets_ ([1](https://repositorio.seade.gov.br/dataset/infraestrutura-e-meio-ambiente/resource/f175c301-b9c9-46d0-9522-1e1f7134846c?inner_span=True),[2](https://repositorio.seade.gov.br/dataset/infraestrutura-e-meio-ambiente/resource/abf3787f-5d6c-4f63-81e0-79021464b6c4)) disponibilizados publicamente pelo SEADE.
+_Datasets_ ([1](https://repositorio.seade.gov.br/dataset/infraestrutura-e-meio-ambiente/resource/f175c301-b9c9-46d0-9522-1e1f7134846c?inner_span=True),[2](https://repositorio.seade.gov.br/dataset/infraestrutura-e-meio-ambiente/resource/abf3787f-5d6c-4f63-81e0-79021464b6c4)) disponibilizados publicamente pelo SEADE.  
 Agradecimentos especiais aos nossos PADs pela paciência infinita demonstrada durante o semestre para com este grupo.
