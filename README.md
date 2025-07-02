@@ -13,14 +13,28 @@ O objetivo desta segunda avaliação foi transferir para um novo banco de dados 
    * O banco de dados é _in-memory_: Dados relevantes em processo são carregados na memória _RAM_ conforme necessário, tornando o acesso muito mais rápido do que é o caso com bancos armazenados em disco rígido;
    * Transações consistentes e seguras garantidas pelas propriedades _ACID_; na ocasião de uma transação falhar, o sistema faz um _rollback_. 
 
+## Resultados
+Seguindo à transferência, o banco foi reduzido a apenas uma tabela:  
+  
+![modelo lógico](Diagramas/proj2logico.drawio.png)
+
+...que é armazenada de forma comprimida e carregada na memória conforme o necessário para buscas rápidas. 5 _queries_ foram então realizadas, e podem ser reproduzidas segundo as instruções que seguem adiante.
+
 ## Obtendo Dependências e Executando
 Este projeto depende de [Python 3](https://www.python.org/), [Pip](https://pypi.org/project/pip/), [Jupyter](https://jupyter.org/) e [DuckDB](https://duckdb.org/).
+No sistema operacional Ubuntu e em seus similares, as instruções para obtenção dessas dependências são:
 
+1. Em seu emulador de terminal de preferência, certifique-se de possuir _Python 3_ e _pip_ instalados com os comandos `python3 --version` e `pip --version`;
+2. Escolha um diretório para armazenar o ambiente e suas as dependências com o comando: `python3 -m venv <caminho>` (e.g. `python3 -m venv /home/username/Documents/python3-Envs/proj2`);
+3. Selecione o ambiente criado com o comando `source <caminho>/bin/activate` (e.g. `source /home/username/Documents/python3-Envs/proj2/bin/activate`);
+4. Uma vez selecionado, utilize os comandos `pip install duckdb` e `pip install jupyter` para instalar outras duas demais dependências.
+5. Navegue até o diretório em que clonou este projeto (e.g: `cd /home/username/Documents/GitHub/MC536_Av2`)
+6. Execute o comando `jupyter notebook`, que deverá abrir um explorador de arquivos em seu navegador.
+7. Selecione o projeto de extensão de arquivo **_ava_dois_notebook.ipynb_**;
+8. Por fim, basta executar os blocos de código sequencialmente. Comece pelo começo, vá até o final, e então pare. Os resultados são exibidos na própria página.
 
-
-
-
-# TODO
+## Créditos
+Colocar numeração na obtenção de dependências.
 O banco foi reduzido a apenas uma tabela:  
 ![modelo lógico](proj2logico.drawio.png)
 
