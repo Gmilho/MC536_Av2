@@ -1,3 +1,21 @@
+Segundo projeto para a matéria MC536 ministrada no 1º semestre de 2025 pelo professor Breno Bernard Nicolau de França, Instituto de Computação da Universidade Estadual de Campinas (UNICAMP).
+Autoria de:
+  - Daniel Baltieri Ismael      (247855)
+  - Gustavo Costa Salles Silva  (198487)
+  - João Emílio Ferreira        (247184)
+
+[Todo: Colocar links]
+
+
+
+Dependências
+proj1:
+jupyter, python3, pip, postgresql (proj1), psycopg(proj1), duckdb (proj2)
+*Introdução*
+
+> Comentar sobre análises estatísticas eficientes, baixo volume de inserção
+> Comentar sobre os dados que podem ser buscados
+
 Nós escolhemos o DuckDB como o banco para o cenário A pelos seguintes motivos:  
     * As consultas podem ser realizadas diretamente pelo python, basta apenas importar a biblioteca do duckdb  
     * São muitos os dados que os analistas precisam guardar nos CSVs e esses dados não precisam ser acessados com frequência  
@@ -9,3 +27,6 @@ Acaba que o DuckDB é o banco perfeito para o tipo de aplicação do cenário
   
 O banco foi reduzido a apenas uma tabela:  
 ![modelo lógico](proj2logico.drawio.png)
+
+
+
