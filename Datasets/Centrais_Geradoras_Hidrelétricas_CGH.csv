@@ -1,0 +1,74 @@
+nome;prop;munic1;uf1;munic2;uf2;rio;potkw;atualiz;iniciop;potfisc;idemp;lat;long;estag
+Arroio das Flores;;Itapirapuã Paulista;SP;Doutor Ulysses;PR;Rio Itapirapuã;3200;30/10/2023;0;0;35575;-24,69322226;-49,26027777;Revogada
+Ribeirão da Lagoa;;Itapirapuã Paulista;SP;Doutor Ulysses;PR;Rio Itapirapuã;3000;30/10/2023;0;0;35573;-24,649278;-49,301694;Pré-Cadastro
+Catas Altas I;Orsa International Paper Embalagens S. A.;Ribeira;SP;;;Rio Catas Altas;4000;30/10/2023;15/05/1962;4000;27435;-24,59722222;-49,135;Operação
+Apiaí;Apiaí Energia S.A.;Barra do Chapeú;SP;;;Rio Catas Altas;1000;30/10/2023;01/01/1951;1000;116;-24,48338607;-49,06499596;Operação
+Catas Altas III;;Barra do Chapéu;SP;;;Rio Catas Altas;2500;30/10/2023;0;0;0;-24,48333333;-49,11666667;Eixo Disponível
+Corredeira do Capote;Maringá Ferro Liga S.A.;Ribeirão Branco;SP;;;Rio Apiaí-Guaçu;1723;30/10/2023;01/01/1960;1723;27119;-24,16861111;-48,7125;Operação
+São José;Maringá Ferro-Liga S.A.;Nova Campina;SP;;;Rio Taquari-Guaçu;660;30/10/2023;01/01/1925;660;27455;-24,13366155;-48,96599811;Operação
+Salto da Barra;Maringá Ferro Liga S.A.;Itapeva;SP;;;Rio Apiaí-Guaçu;2092;30/10/2023;01/01/1954;2092;2596;-24,06388889;-48,72666667;Operação
+Cachoeira Poço Preto II;Maringá Ferro Liga S.A.;Itararé;SP;Sengés;PR;Rio Itararé;2099;30/10/2023;01/01/1964;2099;30406;-24,04791199;-49,45779128;Operação
+Cachoeira Poço Preto I;Maringá Ferro Liga S.A.;Itararé;SP;Sengés;PR;Rio Itararé;2094;30/10/2023;01/01/1964;2094;27253;-24,03698847;-49,46292882;Operação
+Santa Maria;Maringá Ferro Liga S.A;Itapeva;SP;;;Rio Apiaí-Guaçu;3000;30/10/2023;01/01/1951;3000;26721;-24,02015107;-48,72156802;Operação
+São José;CPFL Energias Renováveis S.A.;São Miguel Arcanjo;SP;;;Ribeirão Turvinho;788,4;30/10/2023;31/12/1934;788,4;26849;-24,00555556;-47,94111111;Operação
+Turvinho;CPFL Energia Renováveis S.A.;São Miguel Arcanjo;SP;;;Ribeirão Turvinho;800;30/10/2023;31/12/1912;800;2896;-23,99970261;-47,95710265;Operação
+Lavrinha;CPFL Centrais Geradoras Ltda.;São Miguel Arcanjo;SP;;;Rio Turvo;332,5;30/10/2023;31/12/1941;332,5;1317;-23,98113719;-47,93997265;Operação
+Jurupará;Companhia Brasileira de Alumínio;Piedade;SP;Ibiúna;SP;Rio do Peixe;4400;30/10/2023;01/01/1947;4400;1286;-23,96258509;-47,390232;Eixo Disponibilizado
+Piedade;Faixa Azul Indústria de Móveis para Escritório Ltda.;Piedade;SP;Ibiúna;SP;Rio do Peixe;416,5;30/10/2023;02/02/1959;416,5;2056;-23,88487899;-47,36506798;Operação
+Santa Helena;Companhia Brasileira de Alumínio;Votorantim;SP;;;Rio Sorocaba;2240;30/10/2023;01/01/1936;2240;26710;-23,5795601;-47,43835637;Operação
+Salesópolis;Cobuccio Energia Ltda.;Salesópolis;SP;;;Rio Tietê;1000;30/10/2023;09/12/2008;1000;2570;-23,56333333;-45,83638889;Operação
+Votorantim;Companhia Brasileira de Alumínio;Votorantim;SP;;;Rio Sorocaba;3000;30/10/2023;01/01/1912;3000;3048;-23,55182125;-47,44179796;Operação
+Santa Adélia;Companhia Energética Tatuí Ltda.;Boituva;SP;Tatuí;SP;Rio Sorocaba;1000;30/10/2023;01/05/2006;1000;28186;-23,32752983;-47,76887252;Operação
+Boa Vista;Santa Cruz Geração de Energia S.A.;Sarutaiá;SP;;;Ribeirão Boa Vista;640;30/10/2023;01/01/1913;640;29628;-23,23478167;-49,4627783;Operação
+Quilombo I;ZX Renováveis Ltda.;Itupeva;SP;;;Rio Jundiaí;2900;30/10/2023;0;0;52023;-23,13840833;-47,10336945;Cancelado
+Monte Serrat;ZX Renováveis Ltda.;Itupeva;SP;;;Rio Jundiaí;1300;30/10/2023;0;0;27190;-23,13916667;-47,08833333;Cancelado
+Quilombo I;;Itupeva;SP;;;Rio Jundiaí;2500;30/10/2023;0;0;0;-23,13472222;-47,11222222;Eixo Disponível
+Rio Novo;Santa Cruz Geração de Energia S.A.;Avaré;SP;;;Rio Novo;974,43;30/10/2023;01/01/1909;974,43;2428;-22,95805556;-48,97833333;Operação
+Salto do Lobo;Companhia Energética Salto do Lobo Ltda.;Botucatu;SP;Itatinga;SP;Rio Pardo;1616;30/10/2023;24/04/2002;1616;28585;-22,95380479;-48,73788247;Operação
+Salto Grande;Jayaditya Empreendimentos e Participações Ltda.;Itatiba;SP;;;Rio Atibaia;4550,4;30/10/2023;20/01/1912;4550,4;27172;-22,93388889;-46,89583333;Operação
+Pari;Quatiara Energia S.A.;Cândido Mota;SP;Palmital;SP;Rio Pari;1344;30/10/2023;10/04/1937;1344;1988;-22,88166667;-50,33083333;Operação
+Bocaina I;Bracuhy Agricultura e Energia Ltda.;Bananal;SP;;;Rio Paca Grande;450;30/10/2023;27/04/1978;450;31266;-22,81183955;-44,45159368;Operação
+Hidrogerador Quântico;Luxray Tecnologia Ltda.;Pindamonhangaba;SP;;;Rio Tetequera ou Grande;1225;30/10/2023;30/03/2016;1225;35587;-22,75361111;-45,44722222;Operação
+Central GH Engenheiro Bernardo Figueiredo;Monte Azul Empreendimentos Imobiliários e Geração de Energia Ltda.;Pedreira;SP;;;Rio Jaguari;1,69;30/10/2023;20/10/1950;1,69;884;-22,7400745;-46,93738473;Operação
+Cachoeira Paulista;CGH Cachoeira Paulista S.A.;Cachoeira Paulista;SP;Silveiras;SP;Rio Bravo;1000;30/10/2023;10/03/1976;1000;27476;-22,72972222;-44,91527778;Cancelado
+Isabel;SZO Empreendimentos Ltda - ME;Pindamonhangaba;SP;;;Rio Sacatrapo;3168;30/10/2023;01/05/1915;3168;1148;-22,7275131;-45,45211587;Operação
+Museu da Água;Lar dos Velhinhos de Piracicaba;Piracicaba;SP;;;Rio Piracicaba;386;30/10/2023;01/08/2007;386;29757;-22,71712663;-47,65275227;Operação
+Capitão Mor;Usina Capitão Mor Energia Ltda.;Arapeí;SP;;;Rio Capitão Mor;288;30/10/2023;05/12/1961;288;30861;-22,7032375;-44,46364972;Operação
+Santa Tereza;Companhia Industrial de Bebidas São Paulo;Amparo;SP;Pedreira;SP;Rio Camanducaia;588;30/10/2023;01/01/1951;588;28330;-22,69770715;-46,9112817;Operação
+Funil;;Amparo;SP;;;Camanducaia;900;30/10/2023;0;0;0;-22,6925;-46,85444444;Eixo Disponível
+Sodré;Construtora Kamilos Ltda.;Guaratinguetá;SP;;;Rio Piagui;1012;30/10/2023;01/04/2013;1012;31099;-22,66444444;-45,30916667;Operação
+Ribeirão do Pinhal;Companhia Energética Salto do Lobo Ltda.;Limeira;SP;Cosmópolis;SP;Ribeirão do Pinhal;1200;30/10/2023;15/07/2003;1200;2238;-22,66029788;-47,27800741;Operação
+Ester;Usina Açucareira Ester S.A.;Cosmópolis;SP;;;Ribeirão Pirapitingui;747;30/10/2023;15/01/1901;747;23;-22,65679098;-47,20384721;Cancelado
+Marmelos III;Mineração Corrêa Ltda.;Campos do Jordão;SP;;;Rio Sapucaí;360;30/10/2023;20/06/1998;360;28341;-22,63194792;-45,48780925;Operação
+Peixe;Ágape Participações Ltda.;Socorro;SP;;;Rio do Peixe;1000;30/10/2023;05/03/2011;1000;30243;-22,60833333;-46,44166667;Operação
+Lençóis;Chimay Empreendimentos e Participações Ltda;Macatuba;SP;Igaraçu do Tietê;SP;Rio Lençóis;1680;30/10/2023;01/01/1917;1680;1322;-22,52694444;-48,64861111;Operação
+Corumbataí;Cobuccio Energia Ltda.;Rio Claro;SP;;;Rio Corumbataí;1700;30/10/2023;07/08/2008;1700;868;-22,48054828;-47,59218213;Operação
+Jacaré Pepira;Água Paulista Geração de Energia Ltda.;Brotas;SP;;;Jacaré Pepira;2000;30/10/2023;26/06/2010;2000;29296;-22,425;-48,02;Operação
+Três Saltos;Jayaditya Empreendimentos e Participações Ltda.;Torrinha;SP;;;Rio Pinheiros;640;30/10/2023;01/01/1928;640;2877;-22,37776817;-48,17416667;Operação
+Eleutério (rio Euletério);;Itapira;SP;;;Rio Eleutério;1500;30/10/2023;0;0;0;-22,3;-46,76666667;Eixo Disponível
+Salto Pinhal;CPFL Geraçã de Energia S.A.;Espírito Santo do Pinhal;SP;;;Rio Mogi-Guaçu;580;30/10/2023;0;580;28245;-22,27638192;-46,76240695;Extinta
+Laranja Doce;Quatiara Energia S.A.;Martinópolis;SP;;;Ribeirão Laranja Doce;720;30/10/2023;01/01/1929;720;1310;-22,246944;-51,170833;Operação
+Lobo;Aratu Geração S.A.;Itirapina;SP;Brotas;SP;Ribeirão do Lobo;1272;30/10/2023;01/01/1936;1272;1335;-22,16819695;-47,90293914;Cancelado
+Santana;Jayaditya Empreendimentos e Participações Ltda.;São Carlos;SP;Brotas;SP;Rio Jacaré-guaçu;4320;30/10/2023;25/01/1951;4320;27415;-22,07401232;-48,04460084;Operação
+Micro Central Hidrelétrica Major;"Joaquim Salles Leite Filho
+CONSTRUTORA DE OBRAS E PROJETOS LTDA.";Ibaté;SP;São Carlos;SP;Rio do Monjolinho;192;30/10/2023;01/01/1985;192;28489;-22,055833;-48,088333;Operação
+Monjolinho;Mohini Empreendimentos e Participações Ltda.;São Carlos;SP;;;Rio do Monjolinho;600;30/10/2023;25/01/1909;600;1486;-22,02279568;-47,91457804;Operação
+Quatiara;Quatiara Energia S.A.;Rancharia;SP;Parapuã;SP;Rio do Peixe;2600;30/10/2023;01/01/1939;2600;2164;-21,95167443;-50,92912507;Operação
+Nossa Senhora das Graças;MDS - Construções, Indústria e Comércio Ltda.;São João da Boa Vista;SP;Vargem Grande do Sul;SP;Rio Jaguari-mirim;2900;30/10/2023;0;0;1547;-21,93277777;-46,93027777;Eixo Disponibilizado
+Retirão;SBE - Sociedade Brasileira de Energia Renovável Ltda.;Vargem Grande do Sul;SP;São João da Boa Vista;SP;Rio Jaguari-mirim;4000;30/10/2023;0;0;44830;-21,91694444;-46,92638889;Eixo Disponibilizado
+Socorro;Mohini Empreendimentos e Participações Ltda.;Araraquara;SP;;;Rio Chibarro;999;30/10/2023;20/01/1909;999;2762;-21,88810556;-48,14740833;Operação
+Chibarro;Chimay Empreendimentos e Participações Ltda;Araraquara;SP;;;Ribeirão Chibarro;2592;30/10/2023;20/01/1912;2592;768;-21,88795691;-48,14748976;Operação
+Capão Preto;Chimay Empreendimentos e Participações Ltda;Descalvado;SP;São Carlos;SP;Rio do Quilombo;4293;30/10/2023;31/05/2008;4293;27107;-21,88173889;-47,80202778;Operação
+Gavião Peixoto;Chimay Empreendimentos e Participações Ltda;Gavião Peixoto;SP;Boa Esperança do Sul;SP;Rio Jacaré-Açú;4860;30/10/2023;01/01/1913;4860;1025;-21,84694444;-48,48944444;Operação
+Itaquerê;Usina Santa Fé S.A.;Nova Europa;SP;Tabatinga;SP;Rio Itaquerê;409,6;30/10/2023;01/01/1929;409,6;29662;-21,81215726;-48,63715686;Operação
+Salto Grande;Comercial Lupo S.A.;Araraquara;SP;;;Ribeirão das Cruzes;684;30/10/2023;10/12/1951;684;31230;-21,80376896;-48,21949629;Operação
+São Valentim;Cobuccio Energia Ltda.;Santa Rita do Passa Quatro;SP;;;Rio Claro;1450;30/10/2023;05/12/2009;1450;2707;-21,74449342;-47,41134942;Operação
+Santa Alice;CPFL Centrais Geradoras Ltda.;São José do Rio Pardo;SP;;;Rio Fartura;624;30/10/2023;31/12/1907;624;2693;-21,60058735;-46,90156449;Cancelado
+Águas Claras;Usina Hidrelétrica Águas Claras Ltda.;São Simão;SP;Santa Rosa de Viterbo;SP;Ribeirão Águas Claras;1000;30/10/2023;20/12/2008;1000;29695;-21,43888889;-47,41416667;Cancelado
+São Sebastião;CPFL Centrais Geradoras Ltda.;Arceburgo;MG;Mococa;SP;Rio Canoas;680;30/10/2023;31/12/1925;680;28023;-21,42190571;-46,9172288;Operação
+Jph Participações;JPH Empreendimentos e Participações Ltda.;Cajuru;SP;;;Rio Cubatão;800;30/10/2023;30/11/2017;800;40535;-21,3330734;-47,29832738;Operação
+Cajuru;Lucia de Sampaio Moreira Freitas;Cajuru;SP;;;Rio Cubatão;606,4;30/10/2023;01/02/1924;606,4;28719;-21,33254154;-47,29813237;Operação
+Santa Terezinha (Cubatão);Cunali Energia Ltda.;Cássia dos Coqueiros;SP;;;Rio Cubatão;493;30/10/2023;01/06/2008;493;30188;-21,31583333;-47,19916667;Operação
+Central Macaúbas;Décio Sandoval de Moraes;Batatais;SP;;;Ribeirão dos Batatais;115;30/10/2023;01/02/1938;115;31971;-20,785;-47,53305556;Operação
+Palmeiras;Carlos Olyntho Junqueira Franco;Jaborandi;SP;Terra Roxa;SP;Ribeirão das Palmeiras;230;30/10/2023;26/03/1931;230;29983;-20,74416667;-48,4125;Operação
+Buritis;Chimay Empreendimentos e Participações Ltda.;Buritizal;SP;;;Ribeirão da Bandeira;800;30/10/2023;15/01/1922;800;336;-20,21472222;-47,70555556;Operação
