@@ -7,7 +7,7 @@ Este projeto é autoria de:
   - [João Emílio Ferreira (247184)](https://github.com/Gmilho/)
 
 ## Objetivos e Decisões
-O objetivo desta segunda avaliação foi transferir para um novo banco de dados os _datasets_ utilizados para a construção do banco de dados da primeira avaliação. Para isso, foi escolhido o **[duckDB](https://duckdb.org/)**, que proporciona análises estáticas rápidas sobre um grande volumes de dados e é especialmente eficiente quando inserções de dados são pouco frequentes, como é o caso presente. Dentre outras vantagens deste banco de dados:
+O objetivo desta segunda avaliação foi transferir para um novo banco de dados os _datasets_ utilizados para a construção do banco de dados da [primeira avaliação](https://github.com/Gmilho/MC536_av1). Para isso, foi escolhido o **[duckDB](https://duckdb.org/)**, que proporciona análises estáticas rápidas sobre um grande volumes de dados e é especialmente eficiente quando inserções de dados são pouco frequentes, como é o caso presente. Dentre outras vantagens deste banco de dados:
    * As consultas podem ser realizadas diretamente por Python, bastando apenas importar a biblioteca do duckDB;
    * Por conta de ser um banco colunar, há uma maior compressão dos dados, diminuindo o tamanho necessário para armazenar o banco;
    * Por conta disso, o banco pode até tornar-se portável, possibilitando consultas em um banco hospedado em um _notebook_;
